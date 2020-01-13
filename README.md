@@ -18,7 +18,7 @@ The files include the data only for 1982 through 1990, and a complete set of wha
 * *.xls files have excel spreadsheets that explain the data. 
 * overview provides details about sampling. 
 
-Here is a sample sas program for reading some items from the 1993 and 1994 files. It is provided by William Gentry (wmg6@columbia.edu), who also provided the 1993-4 data.
+[HERE](https://data.nber.org/exempt-orgs/sample.sas) is a sample sas program for reading some items from the 1993 and 1994 files. It is provided by William Gentry (wmg6@columbia.edu), who also provided the 1993-4 data.
 
 The Data Files:
 
