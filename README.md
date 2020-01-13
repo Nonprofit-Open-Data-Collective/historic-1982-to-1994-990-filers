@@ -66,7 +66,7 @@ for( i in years )
   for( j in link.list )
   {
      FILENAME <- j
-     URL <- paste0( "https://data.nber.org/exempt-orgs/1982/", FILENAME )
+     URL <- paste0( year.url, FILENAME )
      download.file( URL, destfile=FILENAME, method="libcurl" )
   }
   
